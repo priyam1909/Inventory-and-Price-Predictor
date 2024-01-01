@@ -1,5 +1,6 @@
 ## Inventory-and-Price-Predictor
-Certainly! Below is a step-by-step text passage for creating an "Inventory-and-Price-Predictor" app using Power Apps. It includes table column names and a hypothetical Copilot screen for interactive assistance.
+
+It includes table column names and a hypothetical Copilot screen for interactive assistance.
 
 ---
 
