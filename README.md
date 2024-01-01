@@ -39,9 +39,11 @@ Design the main screens: Inventory Screen and Price Prediction Screen.
 3. **User Authentication:** Add user authentication to secure the app.
 
 **Step 8: Test and Refine**
+
 Test the app thoroughly, checking for data accuracy, usability, and responsiveness.
 
 **Step 9: Copilot Interaction Screen**
+
 **Create a Copilot Interaction screen where users can ask questions and seek assistance. Copilot can help with generating formulas, suggesting code snippets, and providing guidance on app development-related queries.**
 
 **Step 10: Deployment**
