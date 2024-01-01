@@ -30,8 +30,7 @@ Design the main screens: Inventory Screen and Price Prediction Screen.
 
 **Step 6: Implement Actions**
 1. **Add New Product:** Create a form for adding new products to the inventory.
-2. **Update Stock:** Allow users to update the QuantityInStock.
-3. **Update Price:** Implement functionality to update prices.
+2. **Update Price:** Implement functionality to update prices.
 
 **Step 7: Add Additional Features**
 1. **Graphs/Charts:** Visualize inventory trends or price trends.
