@@ -44,8 +44,9 @@ Test the app thoroughly, checking for data accuracy, usability, and responsivene
 Create a Copilot Interaction screen where users can ask questions and seek assistance. Copilot can help with generating formulas, suggesting code snippets, and providing guidance on app development-related queries.
 
 **Step 10: Deployment**
-Once satisfied with testing, deploy the app to your desired environment.
+Once satisfied with testing, deploy the app to environment.
+![Screenshot (27)](https://github.com/priyam1909/Inventory-and-Price-Predictor/assets/100475347/2cb22122-4de9-4b4c-be6e-da0e105de9cd)
+![Screenshot (28)](https://github.com/priyam1909/Inventory-and-Price-Predictor/assets/100475347/7c38be45-b13e-4091-a068-2e1a66d259a4)
 
----
 
-Remember to adapt the details based on your specific requirements and preferences. Copilot can assist you along the way, making the app development process more interactive and collaborative.
+
